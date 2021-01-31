@@ -1,5 +1,5 @@
 # MCNN
-An unoffical demo for training crowd counting MCNN on Shanghai tech dataset (Part-B)
+An unoffical demo for training crowd counting MCNN on Shanghai tech dataset (Part-B) with Pytorch and Pytorch-lightning. 
 
 ## Training Details
 Use albumentations for image augmentation, and generate density maps on the fly with scipy. Some codes are borrowed from https://github.com/svishwa/crowdcount-mcnn. 
